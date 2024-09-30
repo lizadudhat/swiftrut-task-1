@@ -1,0 +1,40 @@
+.movies{
+    text-align: center;
+    font-family: "poppins";
+}
+
+
+
+
+body{
+    background-color: black;
+    overflow-x: hidden!important;
+}
+
+
+.card .card-body .opp{
+    font-size: 19px;
+    color: gold;
+    text-align: center;
+    margin: 5px 0;
+
+}
+
+
+
+.card img{
+    transition: all 0.5s;
+}
+.card{
+    overflow: hidden;
+    margin-top: 20px;
+}
+
+.card img:hover{
+    transform: scale(1.2);
+}
+
+
+
+
+

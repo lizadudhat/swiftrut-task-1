@@ -1,0 +1,56 @@
+.Horror .box{
+    width: 100%;
+    background-color: #f7f7f8;
+    text-align: center;
+    margin: 5px;
+    padding: 9px;
+}
+.Horror .box p{
+    color: black;
+}
+.Horror .box:nth-last-child(1){
+    color: red;
+}
+.Horror .box:nth-last-child(6){
+    color: red;
+}
+.Horror .box h5{
+    margin: 5px;
+}
+.Horror{
+    margin: 50px 0;
+}
+.shows{
+    background-image: url('public/movie-1.webp');
+    width: 100%;
+    background-repeat: no-repeat;
+    margin-left: 40px;
+    margin-top: 10px;
+    color: white;
+    height: 600px;
+   
+    overflow: hidden;
+}
+.shows h3{
+    color: white;
+    font-size: 30px;
+    padding: 10px;
+}
+
+.shows h5{
+    text-align: center;
+    margin-top: 330px;
+    font-size: 30px;
+    margin-right: 10px;
+    margin-bottom: 20px;
+}
+.shows button{
+    display: block;
+    margin: 0 auto;
+    background-color: red;
+    color: white;
+}
+.now{
+    background-image: url('public/movie-2.webp');
+}
+

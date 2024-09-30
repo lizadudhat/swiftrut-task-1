@@ -1,0 +1,69 @@
+.great{
+    background-image: url('public/bg-p.jpg');
+    width: 100%;
+    height: 600px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 50px 0;
+    background-position: center;
+}
+
+.great .card{
+    margin-top:150px!important;
+    width: 80%;
+    height: 80%;
+    background-color: transparent;
+}
+.card{
+   
+    
+}
+
+.card h4{
+    display: grid;
+    margin-left: 20px;
+    margin-top: 15px;
+    font-size: 25px;
+    font-weight: 300;
+}
+.card .deal{
+    border: 1px solid #00000041;
+    width: 60%;
+    margin-top: 20px;
+
+}
+.card .card-body {
+    background-color: transparent;
+    box-shadow: 2px 4px 5px solid black;
+   
+}
+
+.card .card-body h5{
+    font-size: 26px;
+    font-weight: 900;
+    line-height: 1.2;
+    color: red;
+}
+
+
+.card .card-body h5 span{
+    color: black;
+    font-weight: 200;
+    font-size: 18px;
+}
+
+.card .card-body .card-texttt{
+    margin-top: 12px;
+    margin-bottom: 15px;
+    font-family: "poppins";
+    font-size: 28px;
+    font-weight: bold;
+    line-height: 1.2;
+    color: #2b2b2d;
+}
+
+.card .card-body .card-textt{
+    font-size: 18px;
+    color: #7A7A7A;
+    margin: 15px 0;
+}
